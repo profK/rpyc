@@ -1,3 +1,5 @@
+**This is a fork of the official Rpyc mostly for my oen exploration, use the actual repo, not this one which may not continuie to exist**
+
 |Version| |Python| |Tests| |License|
 
 RPyC_ (pronounced like *are-pie-see*), or *Remote Python Call*, is a
